@@ -25,10 +25,8 @@
 ![lines](https://img.shields.io/tokei/lines/github/SeeChen/Android_TermProject?style=flat&label=Lines&color=gray)
 
 ### About
-> - 2021-2022 Beijing Institute of Technology first semester Java programming course final assignment
-> - The program is a video player based on JavaFx
-> - The operating environment is [Windows JDK 1.8](https://www.oracle.com/java/technologies/downloads/#java8-windows)
-> - Part of the effect is done with [JFoenix](https://github.com/sshahine/JFoenix) 
+> - 2021-2022 Beijing Institute of Technology Second semester Android programming course final assignment
+> - This program development base on Kotlin
 
 ### Group Member
 <a href="https://github.com/SeeChen/"><kbd><img src="https://avatars.githubusercontent.com/u/39422761?v=4" width="75" height="75"/></kbd></a>
