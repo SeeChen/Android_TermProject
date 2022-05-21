@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:apps="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/menu_Camera"
+        android:icon="@drawable/ic_baseline_camera_24"
+        android:id="@+id/menu_openCamera"
+        />
+
+    <item
+        android:title="@string/menu_Gallery"
+        android:icon="@drawable/ic_baseline_photo_library_24"
+        android:id="@+id/menu_openGallery"
+        />
+
+    <item
+        android:title="@string/menu_FromWeb"
+        android:icon="@drawable/ic_baseline_link_24"
+        android:id="@+id/menu_FromWeb"
+        />
+</menu>

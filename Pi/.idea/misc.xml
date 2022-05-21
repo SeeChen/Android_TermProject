@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/about_normal.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/about_press.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/about_selector.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/anim_close2check.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/btn_normal.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/btn_press.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/btn_selector.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/circle_button.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/edittext_border.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/ic_baseline_camera_24.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/ic_baseline_folder_open_24.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/ic_baseline_photo_library_24.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/ic_baseline_touch_app_24.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/icon_background.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/drawable/ripple.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/layout/activity_about_overview.xml" value="0.5116504854368932" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/layout/activity_about_page.xml" value="0.264" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/layout/activity_edit_picture.xml" value="0.264" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/layout/activity_feedback_content_input.xml" value="0.264" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/layout/activity_feedback_page.xml" value="0.264" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/layout/activity_one_key.xml" value="0.536" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/layout/activity_one_key_make.xml" value="0.264" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/layout/activity_open_source_license.xml" value="0.4" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/layout/input_link.xml" value="0.27447916666666666" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/menu/onekey_menu.xml" value="0.2171875" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/mipmap-anydpi-v26/icon.xml" value="0.1" />
+        <entry key="..\:/my_Project/Pi/app/src/main/res/xml/file_path.xml" value="0.18958333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

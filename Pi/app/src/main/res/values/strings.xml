@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name" translatable="false">Pi</string>
+    <string name="create_New">Create New</string>
+    <string name="edit_Title">Unnamed</string>
+    <string name="editNoSave">The edit has not been saved, are you sure you want to leave?</string>
+    <string name="text_Configm">Sure</string>
+    <string name="text_Cancel">Cancel</string>
+    <string name="menu_Camera">Camera</string>
+    <string name="menu_Gallery">Gallery</string>
+    <string name="deniedPermission">You Denied the Permission</string>
+    <string name="editingChage">You are currently editing, do you want to replace the picture ?</string>
+    <string name="btn_Make">Make</string>
+    <string name="show_Original">Original</string>
+    <string name="hide_Original">Hide</string>
+    <string name="file_Save_to">File save to</string>
+    <string name="text_About">About</string>
+    <string name="text_Feedback">Feedback</string>
+    <string name="text_title">Title</string>
+    <string name="feedback_title_hint">Input Feedback Title (Option)</string>
+    <string name="feedback_content_title">Content</string>
+    <string name="feedback_content_hint">Describe the problem you encountered</string>
+    <string name="feedback_edit_tips">Long Press or Double Click to Edit Content</string>
+    <string name="text_feedback_submit">Submit</string>
+    <string name="submit_with_phone_infomation">Upload Phone Information</string>
+    <string name="text_Save">Save</string>
+    <string name="text_DontSave">Don\'t Save</string>
+    <string name="target_not_found">Target Application No Found</string>
+    <string name="feedback_no_content">Feedback content is empty, Can\'t Submit</string>
+    <string name="about_Overview">Overview</string>
+    <string name="text_License">License</string>
+    <string name="openScourceLicense" translatable="false">MIT License \n\nCopyright \u00a9 2022 SeeChen Lee, Lau Le Ye \n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+    <string name="text_version">Version</string>
+    <string name="style_styleOne">Pixel</string>
+    <string name="text_saveProject">Save this Project</string>
+    <string name="text_saveToDevice">Save Picture to Device</string>
+    <string name="menu_FromWeb">Import from Link</string>
+    <string name="hint_input_link">Input your link</string>
+    <string name="past_project">Past Project</string>
+    <string name="style_styleZero">No Style</string>
+    <string name="style_styleTwo">Relief</string>
+</resources>

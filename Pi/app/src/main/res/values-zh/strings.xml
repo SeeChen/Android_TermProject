@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_New">新建项目</string>
+    <string name="edit_Title">未命名</string>
+    <string name="editNoSave">编辑尚未保存，您确定要离开吗？</string>
+    <string name="text_Configm">确定</string>
+    <string name="text_Cancel">取消</string>
+    <string name="menu_Camera">相机</string>
+    <string name="menu_Gallery">相册</string>
+    <string name="deniedPermission">您拒绝了权限</string>
+    <string name="editingChage">您当前正在编辑，是否更换图片 ？</string>
+    <string name="btn_Make">生成</string>
+    <string name="show_Original">显示原图</string>
+    <string name="hide_Original">隐藏原图</string>
+    <string name="file_Save_to">文件保存至</string>
+    <string name="text_About">关于</string>
+    <string name="text_Feedback">使用反馈</string>
+    <string name="text_title">标题</string>
+    <string name="feedback_title_hint">输入反馈标题 （可选）</string>
+    <string name="feedback_content_title">内容</string>
+    <string name="feedback_content_hint">描述你遇到的问题</string>
+    <string name="feedback_edit_tips">长按或双击以编辑内容</string>
+    <string name="text_feedback_submit">提交</string>
+    <string name="submit_with_phone_infomation">上传手机信息</string>
+    <string name="text_Save">保存</string>
+    <string name="text_DontSave">不保存</string>
+    <string name="target_not_found">目标应用程序未找到</string>
+    <string name="feedback_no_content">反馈内容为空，无法提交反馈。</string>
+    <string name="about_Overview">应用概览</string>
+    <string name="text_License">开源许可证</string>
+    <string name="text_version">版本</string>
+    <string name="style_styleOne">像素化</string>
+    <string name="text_saveProject">保存此项目</string>
+    <string name="text_saveToDevice">保存图片到设备</string>
+    <string name="menu_FromWeb">粘贴网址</string>
+    <string name="hint_input_link">输入您的链接</string>
+    <string name="past_project">历史项目</string>
+    <string name="style_styleZero">无样式</string>
+    <string name="style_styleTwo">浮雕</string>
+</resources>

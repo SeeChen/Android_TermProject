@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Pi" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#494949</item>
+        <item name="colorPrimaryVariant">#494949</item>
+        <item name="colorOnPrimary">#494949</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#494949</item>
+        <item name="colorSecondaryVariant">#494949</item>
+        <item name="colorOnSecondary">#494949</item>
+
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+
+        <item name="android:itemBackground">"#939393"</item>
+        <item name="android:textColor">"#ffffff"</item>
+    </style>
+
+    <style name="AlertDialogCustom" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:textColorPrimary">"#FFFFFF"</item>
+        <item name="android:background">"#939393"</item>
+    </style>
+</resources>
